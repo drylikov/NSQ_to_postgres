@@ -80,4 +80,3 @@ Connect via `psql`:
 ```
 $ make client
 ```
-
