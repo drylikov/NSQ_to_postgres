@@ -1,4 +1,4 @@
-NSQ to postgres.
+# NSQ to postgres.
 
  Pull messages from NSQ and write to a Postgres JSONB column.
 
