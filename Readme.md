@@ -1,4 +1,3 @@
-
 ## nsq_to_postgres
 
  Pull messages from NSQ and write to a Postgres JSONB column.
@@ -81,7 +80,6 @@ Connect via `psql`:
 ```
 $ make client
 ```
-
 
 
 
